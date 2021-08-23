@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.18karatwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.18karatwholesale.com/collections/shelving.atom"/>
+  <title>18KARAT WHOLESALE</title>
+  <updated>2016-01-04T15:21:00-06:00</updated>
+  <author>
+    <name>18KARAT WHOLESALE</name>
+  </author>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/95068812</id>
+    <published>2016-01-04T15:21:00-06:00</published>
+    <updated>2016-01-04T15:21:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/mu_shelving"/>
+    <title>MU SIDE TABLES</title>
+    <s:type>Shelving, Side Tables</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/ETA-mu-sidetables.jpg?v=1624033114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>Shelving, Side Tables<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Mu shelving collection offers versatile solutions for the bedroom, office or any other place where a small shelf or table is needed. Mortise and tenon solid oak construction. Size: 18''l x 15.75''w x 22''h.<br><br>Min. Qty: 1  <br>Carton Qty: 1  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>90218</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068812</id>
+      <title>Two shelf / Natural Oak</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku>90218</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

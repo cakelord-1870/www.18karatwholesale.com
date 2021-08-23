@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.18karatwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.18karatwholesale.com/collections/table-bases.atom"/>
+  <title>18KARAT WHOLESALE</title>
+  <updated>2015-06-29T09:57:00-05:00</updated>
+  <author>
+    <name>18KARAT WHOLESALE</name>
+  </author>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/1387578881</id>
+    <published>2015-06-29T09:57:00-05:00</published>
+    <updated>2015-06-29T09:57:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/90007"/>
+    <title>STEEL 33&quot; SQ CAFE TABLE FRAME</title>
+    <s:type>TableLegs</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/Steel-35sq-cafe-table.jpg?v=1443544326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>TableLegs<br>
+        <strong>Price: </strong>
+            450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The simple, elegant lines of our stainless steel frames complement not only the table tops, but everything else in the room. Table top sold separately. Designed by Peter Cardew. Size: frame only 33''sq x 29''h.<br><br>Min. Qty: 1  <br>Carton Qty: 1  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>90007</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/1387578881</id>
+      <title>Default Title</title>
+      <s:price currency="USD">450.00</s:price>
+      <s:sku>90007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

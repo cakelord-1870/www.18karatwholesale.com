@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.18karatwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.18karatwholesale.com/collections/home-decor-glass.atom"/>
+  <title>18KARAT WHOLESALE</title>
+  <updated>2015-06-30T10:49:00-05:00</updated>
+  <author>
+    <name>18KARAT WHOLESALE</name>
+  </author>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/1265869569</id>
+    <published>2015-06-30T10:49:00-05:00</published>
+    <updated>2015-06-30T10:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/allia_vase"/>
+    <title>ALLIA VASES</title>
+    <s:type>Home Decor Glass</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/allia-vases-collection.jpg?v=1624035052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>Home Decor Glass<br>
+        <strong>Price: </strong>
+            72.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Autumn is a time of harvest and gourds fill the landscape. The Allia collection of glass vases is hand blown by skilled artisans. Its shapes echo these seasonal treats while their colors reflect the setting sky changing from golden ambers, to jewel toned turquoises and before finally falling into the grey of night. 2 Sizes 19.5"h x 4.75"da, 23.5"h x 8.5"dia.
+<br><br>Minimum and carton quantities vary by product. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>60331</s:tag>
+    <s:tag>60332</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/1265869569</id>
+      <title>23.5&apos;&apos; / Turquoise</title>
+      <s:price currency="USD">72.95</s:price>
+      <s:sku>60331</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/1265869569</id>
+      <title>23.5&apos;&apos; / Amber</title>
+      <s:price currency="USD">72.95</s:price>
+      <s:sku>60332</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/1245995649</id>
+    <published>2015-06-30T10:48:00-05:00</published>
+    <updated>2015-06-30T10:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/lucca_vase"/>
+    <title>LUCCA VASES</title>
+    <s:type>Home Decor Glass</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/lucca-copper-vases.jpg?v=1624036589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>Home Decor Glass<br>
+        <strong>Price: </strong>
+            79.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Like a mirror of perfectly calm water, the reflective surfaces of the Lucca collection are crisp and expansive. The overwhelming sizes of these impressive vases make them dramatic and monumental. They are available in silver or copper ombre finishes.  2 Sizes 29.5"h x 10.5"dia w/6"opening, 35"h x 13"dia. w/6.5"opening.<br><br>Min. Qty: 1  <br>Carton Qty: 1  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>60312</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/1245995649</id>
+      <title>29.5&apos;&apos; / Copper</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>60312</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/1245995585</id>
+    <published>2015-06-30T10:48:00-05:00</published>
+    <updated>2015-06-30T10:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/lucca_tall_vase"/>
+    <title>LUCCA TALL VASES</title>
+    <s:type>Home Decor Glass</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/Lucca-Tall-vases-Mubench.jpg?v=1624036622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>Home Decor Glass<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Like a mirror of perfectly calm water, the reflective surfaces of the Lucca collection are crisp and expansive. The overwhelming sizes of these impressive vases make them dramatic and monumental. They are available in silver or copper ombre finishes.  2 Sizes 23.5"h x 6"dia, 30.5"h x 5.75"dia.<br><br>Min. Qty: 2  <br>Carton Qty: 2  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>60310</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/1245995585</id>
+      <title>30.5&apos;&apos; / Copper</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>60310</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/329531177</id>
+    <published>2014-07-08T11:35:00-05:00</published>
+    <updated>2014-07-08T11:35:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/claro_vases"/>
+    <title>CLARO VASES</title>
+    <s:type>Home Decor Glass</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/Claro-fishbowls.jpg?v=1452030117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>Home Decor Glass<br>
+        <strong>Price: </strong>
+            14.95 - 19.95
+            <a href="https://www.18karatwholesale.com/products/claro_vases">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These glass ball vases are reminiscent of blocks of ice melting in the sun. The undulating sufaces catch and refract the light making the vases sparkle. Two sizes 8"h x 7.5"dia, 9"h x 10"dia.<br><br>Minimum and carton quantities vary by product. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>60256</s:tag>
+    <s:tag>60258</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/329531177</id>
+      <title>8&apos;&apos; / Clear</title>
+      <s:price currency="USD">14.95</s:price>
+      <s:sku>60256</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/329531177</id>
+      <title>9&apos;&apos; / Clear</title>
+      <s:price currency="USD">19.95</s:price>
+      <s:sku>60258</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/329531061</id>
+    <published>2014-07-08T11:23:00-05:00</published>
+    <updated>2014-07-08T11:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/agrea"/>
+    <title>ARGEA</title>
+    <s:type>Home Decor Glass</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/Argea-glass-buds_1024x1024_a146fd3c-9d75-447a-8574-a9cf5bcde4b0.jpg?v=1624037243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>Home Decor Glass<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These precious metallic coated glasses are foodsafe to use for drinking but are also spectacular as shimmering votives. Two sizes 4.25"h x 3.5"dia, 6.25"h x 3.25"dia.<br><br>Min. Qty: 12  <br>Carton Qty: 24  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>60245</s:tag>
+    <s:tag>60247</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/329531061</id>
+      <title>4.25&apos;&apos; / Silver</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>60245</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/329531061</id>
+      <title>6.25&apos;&apos; / Silver</title>
+      <s:price currency="USD">5.95</s:price>
+      <s:sku>60247</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/203580317</id>
+    <published>2014-01-06T12:20:00-06:00</published>
+    <updated>2014-01-06T12:20:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/ramus_vase"/>
+    <title>RAMUS VASES</title>
+    <s:type>Home Decor Glass</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/Ramus-and-Hightide-vases.jpg?v=1624036381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>Home Decor Glass<br>
+        <strong>Price: </strong>
+            23.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Ramus glass collection features hand-formed coils of glass around their necks. Their elegant shapes are also accented by a subtle ombre effect. Two sizes: 13.5"h x 5"dia, 16.5"h x 6"dia
+<br><br>Minimum and carton quantities vary by product. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>60235</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/203580317</id>
+      <title>13.5&quot; / Smoke</title>
+      <s:price currency="USD">23.95</s:price>
+      <s:sku>60235</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/95068614</id>
+    <published>2013-10-02T10:30:00-05:00</published>
+    <updated>2013-10-02T10:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/crumple_glass_vases"/>
+    <title>CRUMPLE GLASS VASES</title>
+    <s:type>Home Decor Glass</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/crumple-olive-planted.jpg?v=1452029330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>Home Decor Glass<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crumple is a series of glass and ceramic vases. The glass versions reflect and distort light like a rippling stream bed. The smaller pieces are also great as tealight holders. Size 3.5''h x 4''dia.<br><br>Minimum and carton quantities vary by product. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>60056</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068614</id>
+      <title>3.5&quot; / Olive</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>60056</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/95068702</id>
+    <published>2012-06-25T10:17:00-05:00</published>
+    <updated>2012-06-25T10:17:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/florero_vases"/>
+    <title>FLORERO VASES</title>
+    <s:type>Home Decor Glass</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/florero-vases-tulips.jpg?v=1452067416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>Home Decor Glass<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Florero vases are perfect for showcasing a small bouquet of flowers. Their cut glass rims speak of their quality. Size: 11.75''h x 3''dia.<br><br>Minimum and carton quantities vary by product. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>60105</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068702</id>
+      <title>11.75&quot;</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>60105</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/95068698</id>
+    <published>2012-06-25T10:17:00-05:00</published>
+    <updated>2012-06-25T10:17:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/exhale_bottle_vases"/>
+    <title>EXHALE BOTTLE VASES</title>
+    <s:type>Home Decor Glass</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/exhale-holiday.jpg?v=1443482057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>Home Decor Glass<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These thick glass vases are simple and modern. When paired with the Inhale vase its name become obvious. While Exhale seems to contract and blow out of it's wide mouth the Inhale balloons with air. Size 10.5''h x 5.5''dia.<br><br>Minimum and carton quantities vary by product. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>60103</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068698</id>
+      <title>10.5&quot;</title>
+      <s:price currency="USD">17.95</s:price>
+      <s:sku>60103</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

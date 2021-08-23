@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.18karatwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.18karatwholesale.com/collections/planters.atom"/>
+  <title>18KARAT WHOLESALE</title>
+  <updated>2015-01-05T11:34:00-06:00</updated>
+  <author>
+    <name>18KARAT WHOLESALE</name>
+  </author>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/387032473</id>
+    <published>2015-01-05T11:34:00-06:00</published>
+    <updated>2015-01-05T11:34:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/versa_pots"/>
+    <title>VERSA POTS</title>
+    <s:type>Home Decor Ceramic</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/Versa-pots-C07.jpg?v=1443458171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>Home Decor Ceramic<br>
+        <strong>Price: </strong>
+            3.95 - 8.95
+            <a href="https://www.18karatwholesale.com/products/versa_pots">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The matte finish, crisp lines and soft hues of these two-toned flower pots have an understated elegance. They fit 4.5" and 6" grower pots. Two sizes 5"dia x 5"h, 6.5"dia x 6"h.<br><br>Minimum and carton quantities vary by product. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>70485</s:tag>
+    <s:tag>70486</s:tag>
+    <s:tag>70487</s:tag>
+    <s:tag>70488</s:tag>
+    <s:tag>70489</s:tag>
+    <s:tag>70490</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/387032473</id>
+      <title>4.5&apos;&apos; Grower / Lavender</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>70485</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/387032473</id>
+      <title>4.5&apos;&apos; Grower / Grey</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>70486</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/387032473</id>
+      <title>4.5&apos;&apos; Grower / Black</title>
+      <s:price currency="USD">3.95</s:price>
+      <s:sku>70487</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/387032473</id>
+      <title>6&apos;&apos; Grower / Lavender</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>70488</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/387032473</id>
+      <title>6&apos;&apos; Grower / Grey</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>70489</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/387032473</id>
+      <title>6&apos;&apos; Grower / Black</title>
+      <s:price currency="USD">8.95</s:price>
+      <s:sku>70490</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/387032417</id>
+    <published>2015-01-05T11:34:00-06:00</published>
+    <updated>2015-01-05T11:34:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/obo_pots"/>
+    <title>OBO POTS</title>
+    <s:type>Home Decor Ceramic</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/Obo-pots-azaleas.jpg?v=1624036501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>Home Decor Ceramic<br>
+        <strong>Price: </strong>
+            4.75 - 9.50
+            <a href="https://www.18karatwholesale.com/products/obo_pots">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These cheerful flower pots seem to smile with their voluptuous shape and bright gloss finish. They are available in a variety of colors to suit any d‚cor. They fit 4.5" and 6.5" grower pots. Two sizes 5"dia x 5"h, 7.5"dia x 6.5"h.<br><br>Minimum and carton quantities vary by product. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>70480</s:tag>
+    <s:tag>70482</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/387032417</id>
+      <title>4.5&apos;&apos; Grower / Black</title>
+      <s:price currency="USD">4.75</s:price>
+      <s:sku>70480</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/387032417</id>
+      <title>6.5&apos;&apos; Grower / Lavender</title>
+      <s:price currency="USD">9.50</s:price>
+      <s:sku>70482</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/95068502</id>
+    <published>2012-06-25T10:13:00-05:00</published>
+    <updated>2012-06-25T10:13:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/cava_rectangles"/>
+    <title>CAVA RECTANGLES VASES</title>
+    <s:type>Home Decor Resin</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/cava-rectangles_7a2c495a-15d5-4962-8ba2-8553fd8a4482.jpg?v=1624034840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>Home Decor Resin<br>
+        <strong>Price: </strong>
+            288.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These large resin planters make a dramatic and bold statement. They have a false bottom, perfect for holding potted plants.  Use indoors only. Three sizes: 34''h x 14.5''dia, 57''h x 17''dia, 77''h x 20''dia.<br><br>Min. Qty: 1  <br>Carton Qty: 1  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>20040</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068502</id>
+      <title>57&quot; / Black</title>
+      <s:price currency="USD">288.95</s:price>
+      <s:sku>20040</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

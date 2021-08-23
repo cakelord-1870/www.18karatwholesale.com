@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.18karatwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.18karatwholesale.com/collections/new.atom"/>
+  <title>18KARAT WHOLESALE</title>
+  <updated>2016-01-06T11:45:00-06:00</updated>
+  <author>
+    <name>18KARAT WHOLESALE</name>
+  </author>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/1245993601</id>
+    <published>2016-01-06T11:45:00-06:00</published>
+    <updated>2016-01-06T11:45:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/casca_vase"/>
+    <title>CASCA VASES</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/ETA-casca.jpg?v=1624037201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            55.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by our Northwest boreal forests, Casca vases are handmade using recycled wood chips. The irregular pattern of the natural materials gives these large vases a very soft and relaxed feel. They have a plastic lining making them watertight and lightweight. 3 sizes 17.25"h x 16.75"dia, 23"h x 9"dia, 23.5"h x 12"dia.<br><br>Minimum and carton quantities vary by product. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10139</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/1245993601</id>
+      <title>17.25&quot; / White</title>
+      <s:price currency="USD">55.95</s:price>
+      <s:sku>10139</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/3941093895</id>
+    <published>2016-01-06T10:57:00-06:00</published>
+    <updated>2016-01-06T10:57:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/nimbus_wall_decor"/>
+    <title>NIMBUS WALL DECOR</title>
+    <s:type>Home Decor Ceramic</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/ETA-nimbus-wall.jpg?v=1452103105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>Home Decor Ceramic<br>
+        <strong>Price: </strong>
+            6.95 - 43.95
+            <a href="https://www.18karatwholesale.com/products/nimbus_wall_decor">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Nimbus and Cirrus collection of wall d‚cor and vase resemble textured clouds. These ceramic pieces are hand-made, with each detail being added one piece at a time. The wall decor features keyhole hangers built into the design. Both collections are available in a range of sizes. 3 Sizes 4.25"sq x 2.25"h, 8"sq x 2.5"h, 11.25"sq x3"h<br><br>Min. Qty: 4  <br>Carton Qty: 4  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>70506</s:tag>
+    <s:tag>70508</s:tag>
+    <s:tag>70510</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/3941093895</id>
+      <title>4.25&quot;</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>70506</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/3941093895</id>
+      <title>8&quot;</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>70508</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/3941093895</id>
+      <title>11.5&quot;</title>
+      <s:price currency="USD">43.95</s:price>
+      <s:sku>70510</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/3941092743</id>
+    <published>2016-01-06T10:57:00-06:00</published>
+    <updated>2016-01-06T10:57:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/kora_vase"/>
+    <title>KORA VASES</title>
+    <s:type>Home Decor Ceramic</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/ETA-kora-vases.jpg?v=1452102901"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>Home Decor Ceramic<br>
+        <strong>Price: </strong>
+            74.95 - 223.95
+            <a href="https://www.18karatwholesale.com/products/kora_vase">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Like the treasure of Poseidon that has risen from the ocean, Kella and Kora resemble sea life that has been eternalized in silver. These ceramic vases are hand-made, with each detail being added one piece at a time. Each collection is available in a range of sizes. 2 Sizes 12"h x 8.5"dia, 19.5"h x 12"l x13"w<br><br>Min. Qty: 1  <br>Carton Qty: 1  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>70503</s:tag>
+    <s:tag>70504</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/3941092743</id>
+      <title>12&quot;</title>
+      <s:price currency="USD">74.95</s:price>
+      <s:sku>70503</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/3941092743</id>
+      <title>19.5&quot;</title>
+      <s:price currency="USD">223.95</s:price>
+      <s:sku>70504</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/3941092615</id>
+    <published>2016-01-06T10:57:00-06:00</published>
+    <updated>2016-01-06T10:57:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/kella_vase"/>
+    <title>KELLA VASES</title>
+    <s:type>Home Decor Ceramic</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/ETA-kella-vase.jpg?v=1624032616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>Home Decor Ceramic<br>
+        <strong>Price: </strong>
+            105.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Like the treasure of Poseidon that has risen from the ocean, Kella and Kora resemble sea life that has been eternalized in silver. These ceramic vases are hand-made, with each detail being added one piece at a time. Each collection is available in a range of sizes. 3 Sizes 11.75"h x 6.75"dia, 15.5"h x 9" dia, 19.75"h x 9" dia<br><br>Min. Qty: 1  <br>Carton Qty: 1  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>70501</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/3941092615</id>
+      <title>15.5&quot;</title>
+      <s:price currency="USD">105.95</s:price>
+      <s:sku>70501</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/3941088583</id>
+    <published>2016-01-06T10:57:00-06:00</published>
+    <updated>2016-01-06T10:57:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/cirrus_wall_decor"/>
+    <title>CIRRUS WALL DECOR</title>
+    <s:type>Home Decor Ceramic</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/eta-cirrus.jpg?v=1624032666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>Home Decor Ceramic<br>
+        <strong>Price: </strong>
+            6.95 - 43.95
+            <a href="https://www.18karatwholesale.com/products/cirrus_wall_decor">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Nimbus and Cirrus collection of wall d‚cor and vase resemble textured clouds. These ceramic pieces are hand-made, with each detail being added one piece at a time. The wall decor features keyhole hangers built into the design. Both collections are available in a range of sizes. 3 Sizes 4.25"sq x 2.25"h, 8"sq x 2.5"h, 11.25"sq x3"h<br><br>Min. Qty: 4  <br>Carton Qty: 4  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>70507</s:tag>
+    <s:tag>70511</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/3941088583</id>
+      <title>4.25&quot;</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>70507</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/3941088583</id>
+      <title>11.5&quot;</title>
+      <s:price currency="USD">43.95</s:price>
+      <s:sku>70511</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/1265869569</id>
+    <published>2015-06-30T10:49:00-05:00</published>
+    <updated>2015-06-30T10:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/allia_vase"/>
+    <title>ALLIA VASES</title>
+    <s:type>Home Decor Glass</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/allia-vases-collection.jpg?v=1624035052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>Home Decor Glass<br>
+        <strong>Price: </strong>
+            72.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Autumn is a time of harvest and gourds fill the landscape. The Allia collection of glass vases is hand blown by skilled artisans. Its shapes echo these seasonal treats while their colors reflect the setting sky changing from golden ambers, to jewel toned turquoises and before finally falling into the grey of night. 2 Sizes 19.5"h x 4.75"da, 23.5"h x 8.5"dia.
+<br><br>Minimum and carton quantities vary by product. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>60331</s:tag>
+    <s:tag>60332</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/1265869569</id>
+      <title>23.5&apos;&apos; / Turquoise</title>
+      <s:price currency="USD">72.95</s:price>
+      <s:sku>60331</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/1265869569</id>
+      <title>23.5&apos;&apos; / Amber</title>
+      <s:price currency="USD">72.95</s:price>
+      <s:sku>60332</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/1245995073</id>
+    <published>2015-06-30T10:49:00-05:00</published>
+    <updated>2015-06-30T10:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/inscribo_vase"/>
+    <title>INSCRIBO VASES</title>
+    <s:type>Home Decor Ceramic</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/Inscribo-pot-ETA.jpg?v=1624036814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>Home Decor Ceramic<br>
+        <strong>Price: </strong>
+            109.95 - 149.95
+            <a href="https://www.18karatwholesale.com/products/inscribo_vase">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Like lines raked in the sand, the Inscribo collection are inscribed with textured horizontal lines that contrast with the smooth surface of the imposing floor vases. Designed exclusively for 18Karat by Zoe Garred the Inscribo vases are available in three finishes; a reflective silver, a matte black and a soft white. 2 Sizes 14.5"h x 14"dia. w/7"opening, 20"h x 14.5"dia. w/7"opening.<br><br>Min. Qty: 1  <br>Carton Qty: 1  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>70538</s:tag>
+    <s:tag>70541</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/1245995073</id>
+      <title>14.5&apos;&apos; / Silver</title>
+      <s:price currency="USD">109.95</s:price>
+      <s:sku>70538</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/1245995073</id>
+      <title>20&apos;&apos; / Silver</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>70541</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/1245994945</id>
+    <published>2015-06-30T10:49:00-05:00</published>
+    <updated>2015-06-30T10:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/inscribo_tall_vase"/>
+    <title>INSCRIBO TALL VASES</title>
+    <s:type>Home Decor Ceramic</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/Inscribo-tall-ETA.jpg?v=1449167579"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>Home Decor Ceramic<br>
+        <strong>Price: </strong>
+            99.95 - 149.95
+            <a href="https://www.18karatwholesale.com/products/inscribo_tall_vase">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Like lines raked in the sand, the Inscribo collection are inscribed with textured horizontal lines that contrast with the smooth surface of the imposing floor vases. Designed exclusively for 18Karat by Zoe Garred the Inscribo vases are available in three finishes; a reflective silver, a matte black and a soft white. 3 sizes 32"h x 7"dia, 40"h x 7.75"dia, 48"h x 9"dia.<br><br>Min. Qty: 1  <br>Carton Qty: 1  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>70545</s:tag>
+    <s:tag>70546</s:tag>
+    <s:tag>70549</s:tag>
+    <s:tag>70550</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/1245994945</id>
+      <title>40&apos;&apos; / White</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>70545</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/1245994945</id>
+      <title>40&apos;&apos; / Black</title>
+      <s:price currency="USD">99.95</s:price>
+      <s:sku>70546</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/1245994945</id>
+      <title>48&apos;&apos; / Black</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>70549</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/1245994945</id>
+      <title>48&apos;&apos; / Silver</title>
+      <s:price currency="USD">149.95</s:price>
+      <s:sku>70550</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/1245995649</id>
+    <published>2015-06-30T10:48:00-05:00</published>
+    <updated>2015-06-30T10:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/lucca_vase"/>
+    <title>LUCCA VASES</title>
+    <s:type>Home Decor Glass</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/lucca-copper-vases.jpg?v=1624036589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>Home Decor Glass<br>
+        <strong>Price: </strong>
+            79.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Like a mirror of perfectly calm water, the reflective surfaces of the Lucca collection are crisp and expansive. The overwhelming sizes of these impressive vases make them dramatic and monumental. They are available in silver or copper ombre finishes.  2 Sizes 29.5"h x 10.5"dia w/6"opening, 35"h x 13"dia. w/6.5"opening.<br><br>Min. Qty: 1  <br>Carton Qty: 1  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>60312</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/1245995649</id>
+      <title>29.5&apos;&apos; / Copper</title>
+      <s:price currency="USD">79.95</s:price>
+      <s:sku>60312</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/1245995585</id>
+    <published>2015-06-30T10:48:00-05:00</published>
+    <updated>2015-06-30T10:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/lucca_tall_vase"/>
+    <title>LUCCA TALL VASES</title>
+    <s:type>Home Decor Glass</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/Lucca-Tall-vases-Mubench.jpg?v=1624036622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>Home Decor Glass<br>
+        <strong>Price: </strong>
+            49.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Like a mirror of perfectly calm water, the reflective surfaces of the Lucca collection are crisp and expansive. The overwhelming sizes of these impressive vases make them dramatic and monumental. They are available in silver or copper ombre finishes.  2 Sizes 23.5"h x 6"dia, 30.5"h x 5.75"dia.<br><br>Min. Qty: 2  <br>Carton Qty: 2  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>60310</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/1245995585</id>
+      <title>30.5&apos;&apos; / Copper</title>
+      <s:price currency="USD">49.95</s:price>
+      <s:sku>60310</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/387032425</id>
+    <published>2015-01-05T11:32:00-06:00</published>
+    <updated>2015-01-05T11:32:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/petal_vases"/>
+    <title>PETAL VASES</title>
+    <s:type>Home Decor Ceramic</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/Petal-vase-small-C07.jpg?v=1624036405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>Home Decor Ceramic<br>
+        <strong>Price: </strong>
+            95.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>One can hardly believe the delicacy of these porcelain matte white vases. Each detail is applied by hand to create an etherial effect. They are available in a range of sizes to suit any room scale. Three sizes 8"h x 7.5"dia, 15.5"h x 8"dia, 20"h x 7"dia.<br><br>Minimum and carton quantities vary by product. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>70438</s:tag>
+    <s:tag>70439</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/387032425</id>
+      <title>15.5&apos;&apos;</title>
+      <s:price currency="USD">95.95</s:price>
+      <s:sku>70438</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/387032425</id>
+      <title>20&apos;&apos;</title>
+      <s:price currency="USD">95.95</s:price>
+      <s:sku>70439</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

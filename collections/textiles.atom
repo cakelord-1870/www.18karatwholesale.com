@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.18karatwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.18karatwholesale.com/collections/textiles.atom"/>
+  <title>18KARAT WHOLESALE</title>
+  <updated>2014-07-08T12:17:00-05:00</updated>
+  <author>
+    <name>18KARAT WHOLESALE</name>
+  </author>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/329531449</id>
+    <published>2014-07-08T12:17:00-05:00</published>
+    <updated>2014-07-08T12:17:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/submerge_sq_cushions"/>
+    <title>SUBMERGE SQUARE CUSHIONS</title>
+    <s:type>Textiles</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/Submerge-sq-cushion-green.jpg?v=1624036256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>Textiles<br>
+        <strong>Price: </strong>
+            22.95 - 28.95
+            <a href="https://www.18karatwholesale.com/products/submerge_sq_cushions">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These 100% polyester cushions are printed from the Submerge painting series conceptualized exclusively for 18KARAT by Zoe Garred. Like looking at clouds, layers of inkblots reveal other worlds filled with jewel toned landscapes. Two sizes 22" sq. 26"sq.<br><br>Min. Qty: 2  <br>Carton Qty: 10  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>30086</s:tag>
+    <s:tag>30092</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/329531449</id>
+      <title>22&apos;&apos; / Orange</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>30086</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/329531449</id>
+      <title>26&apos;&apos; / Orange</title>
+      <s:price currency="USD">28.95</s:price>
+      <s:sku>30092</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.18karatwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.18karatwholesale.com/collections/table-tops.atom"/>
+  <title>18KARAT WHOLESALE</title>
+  <updated>2012-06-25T10:23:00-05:00</updated>
+  <author>
+    <name>18KARAT WHOLESALE</name>
+  </author>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/95068962</id>
+    <published>2012-06-25T10:23:00-05:00</published>
+    <updated>2012-06-25T10:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/tt_84-5x14"/>
+    <title>TABLE TOPS 84.5X14&quot;</title>
+    <s:type>TableTop</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/Steel-84.5x14-sofa-table-c08.jpg?v=1624036068"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>TableTop<br>
+        <strong>Price: </strong>
+            300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These table tops celebrate the simple beauty of marble. Marble tops are coated with a resin finish to protect from staining. As this is a natural product, each piece of marble will have a unique vein pattern. Tabletop pairs with steel 90030 sofa table frame. Size: marble comes in two 42.25''l x 14''w pieces.<br><br>Min. Qty: 1  <br>Carton Qty: 1  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>90360</s:tag>
+    <s:tag>90361</s:tag>
+    <s:tag>90363</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068962</id>
+      <title>White Marble</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku>90360</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068962</id>
+      <title>Taupe Marble</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku>90361</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068962</id>
+      <title>Grey/Black Marble</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku>90363</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/95068954</id>
+    <published>2012-06-25T10:23:00-05:00</published>
+    <updated>2012-06-25T10:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/tt_71x24"/>
+    <title>TABLE TOPS 71X24&quot;</title>
+    <s:type>TableTop</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/Steel-71x24-coffee-table2.jpg?v=1624032829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>TableTop<br>
+        <strong>Price: </strong>
+            355.00 - 415.00
+            <a href="https://www.18karatwholesale.com/products/tt_71x24">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These table tops celebrate the simple beauty marble. Marble tops are coated with a resin finish to protect from staining. As this is a natural product, each piece of marble will have a unique vein pattern. Tabletop pairs with coffee table steel 8'', 12" or 15'' height frame. Size: 71''l x 24''w.<br><br>Min. Qty: 1  <br>Carton Qty: 1  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>90351</s:tag>
+    <s:tag>90352</s:tag>
+    <s:tag>90353</s:tag>
+    <s:tag>90354</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068954</id>
+      <title>Taupe Marble</title>
+      <s:price currency="USD">355.00</s:price>
+      <s:sku>90351</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068954</id>
+      <title>Charcoal Marble</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>90352</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068954</id>
+      <title>Grey/Black Marble</title>
+      <s:price currency="USD">355.00</s:price>
+      <s:sku>90353</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068954</id>
+      <title>Black Marble</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>90354</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/95068950</id>
+    <published>2012-06-25T10:23:00-05:00</published>
+    <updated>2012-06-25T10:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/tt_71_35"/>
+    <title>TABLE TOPS 71X35.5&quot;</title>
+    <s:type>TableTop</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/Steel-71x35.5-dining-table.jpg?v=1624032878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>TableTop<br>
+        <strong>Price: </strong>
+            475.00 - 655.00
+            <a href="https://www.18karatwholesale.com/products/tt_71_35">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These table tops celebrate the simple beauty of marble. Marble tops are coated with a resin finish to protect from staining. As this is a natural product, each piece of marble will have a unique vein pattern. Tabletop pairs with steel 90033 dining table frame. Size: 71''l x 35.5''w.<br><br>Min. Qty: 1  <br>Carton Qty: 1  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>90370</s:tag>
+    <s:tag>90371</s:tag>
+    <s:tag>90373</s:tag>
+    <s:tag>90374</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068950</id>
+      <title>White Marble</title>
+      <s:price currency="USD">655.00</s:price>
+      <s:sku>90370</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068950</id>
+      <title>Taupe Marble</title>
+      <s:price currency="USD">475.00</s:price>
+      <s:sku>90371</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068950</id>
+      <title>Grey/Black Marble</title>
+      <s:price currency="USD">475.00</s:price>
+      <s:sku>90373</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068950</id>
+      <title>Black Marble</title>
+      <s:price currency="USD">655.00</s:price>
+      <s:sku>90374</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/95068944</id>
+    <published>2012-06-25T10:23:00-05:00</published>
+    <updated>2012-06-25T10:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/tt_48_sq"/>
+    <title>TABLE TOPS 48&quot; SQUARE</title>
+    <s:type>TableTop</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/Steel-48sq-dining-table3.jpg?v=1624032927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>TableTop<br>
+        <strong>Price: </strong>
+            460.00 - 550.00
+            <a href="https://www.18karatwholesale.com/products/tt_48_sq">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These table tops celebrate the simple beauty of marble. Marble tops are coated with a resin finish to protect from staining. As this is a natural product, each piece of marble will have a unique vein pattern. Tabletop pairs with dining table and coffee table steel frame. Size: 48''sq.<br><br>Min. Qty: 1  <br>Carton Qty: 1  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>90331</s:tag>
+    <s:tag>90334</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068944</id>
+      <title>Taupe Marble</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>90331</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068944</id>
+      <title>Black Marble</title>
+      <s:price currency="USD">550.00</s:price>
+      <s:sku>90334</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/95068942</id>
+    <published>2012-06-25T10:22:00-05:00</published>
+    <updated>2012-06-25T10:22:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/tt_47x24"/>
+    <title>TABLE TOPS 47X24&quot;</title>
+    <s:type>TableTop</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/47x24-marbletop.jpg?v=1624032985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>TableTop<br>
+        <strong>Price: </strong>
+            315.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These table tops celebrate the simple beauty of marble. Marble tops are coated with a resin finish to protect from staining. As this is a natural product, each piece of marble will have a unique vein pattern. Tabletop pairs steel counter table, bar table, coffee table in 8', 12" or 15'' height frame. Size: 47.25''l x 24''w.<br><br>Min. Qty: 1  <br>Carton Qty: 1  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>90342</s:tag>
+    <s:tag>90344</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068942</id>
+      <title>Charcoal Marble</title>
+      <s:price currency="USD">315.00</s:price>
+      <s:sku>90342</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068942</id>
+      <title>Black Marble</title>
+      <s:price currency="USD">315.00</s:price>
+      <s:sku>90344</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/95068940</id>
+    <published>2012-06-25T10:22:00-05:00</published>
+    <updated>2012-06-25T10:22:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/tt_40x12"/>
+    <title>TABLE TOPS 40X12&quot;</title>
+    <s:type>TableTop</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/Steel-40x12-console-table.jpg?v=1624034933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>TableTop<br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These table tops celebrate the simple beauty of marble. Marble tops are coated with a resin finish to protect from staining. As this is a natural product, each piece of marble will have a unique vein pattern. Tabletop pairs with steel 90003 console frame. Size: 40''l x 12''w.<br><br>Min. Qty: 1  <br>Carton Qty: 1  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>90310</s:tag>
+    <s:tag>90313</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068940</id>
+      <title>White Marble</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku>90310</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068940</id>
+      <title>Grey/Black Marble</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku>90313</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/95068930</id>
+    <published>2012-06-25T10:22:00-05:00</published>
+    <updated>2012-06-25T10:22:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/tt_33x12"/>
+    <title>TABLE TOPS 33X12&quot;</title>
+    <s:type>TableTop</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/Steel-33x12-side-table.jpg?v=1624036172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>TableTop<br>
+        <strong>Price: </strong>
+            130.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Celebrate the simple beauty of marble table tops. As this is a natural product, each piece of marble will have a unique vein pattern. Tabletop pairs with steel 90000 side table frame. Size: 33''l x 12''w.<br><br>Min. Qty: 1  <br>Carton Qty: 1  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>90300</s:tag>
+    <s:tag>90301</s:tag>
+    <s:tag>90304</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068930</id>
+      <title>White Marble</title>
+      <s:price currency="USD">130.00</s:price>
+      <s:sku>90300</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068930</id>
+      <title>Taupe Marble</title>
+      <s:price currency="USD">130.00</s:price>
+      <s:sku>90301</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068930</id>
+      <title>Black Marble</title>
+      <s:price currency="USD">130.00</s:price>
+      <s:sku>90304</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/95068928</id>
+    <published>2012-06-25T10:22:00-05:00</published>
+    <updated>2012-06-25T10:22:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/tt_33_sq"/>
+    <title>TABLE TOPS 33&quot; SQUARE</title>
+    <s:type>TableTop</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/Steel-33_-coffee-table2_1024x1024_0721f046-2791-4273-832a-5cc82bd9e022.jpg?v=1624033016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>TableTop<br>
+        <strong>Price: </strong>
+            275.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These table tops celebrate the simple beauty of marble. Marble tops are coated with a resin finish to protect from staining. As this is a natural product, each piece of marble will have a unique vein pattern. Tabletop pairs with steel 90036 side table frame and 90048 coffee table frame. Size: 32.9''sq.<br><br>Min. Qty: 1  <br>Carton Qty: 1  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>90380</s:tag>
+    <s:tag>90381</s:tag>
+    <s:tag>90383</s:tag>
+    <s:tag>90384</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068928</id>
+      <title>White Marble</title>
+      <s:price currency="USD">275.00</s:price>
+      <s:sku>90380</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068928</id>
+      <title>Taupe Marble</title>
+      <s:price currency="USD">275.00</s:price>
+      <s:sku>90381</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068928</id>
+      <title>Grey/Black Marble</title>
+      <s:price currency="USD">275.00</s:price>
+      <s:sku>90383</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068928</id>
+      <title>Black Marble</title>
+      <s:price currency="USD">275.00</s:price>
+      <s:sku>90384</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

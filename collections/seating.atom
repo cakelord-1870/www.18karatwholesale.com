@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.18karatwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.18karatwholesale.com/collections/seating.atom"/>
+  <title>18KARAT WHOLESALE</title>
+  <updated>2016-01-04T17:17:00-06:00</updated>
+  <author>
+    <name>18KARAT WHOLESALE</name>
+  </author>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/95068554</id>
+    <published>2016-01-04T17:17:00-06:00</published>
+    <updated>2016-01-04T17:17:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/chi_felt_chaises"/>
+    <title>CHI CHAISES, FELT</title>
+    <s:type>Sofas, Chaises, Lounges</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/Chi-chaise-felt-C07.jpg?v=1624033258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>Sofas, Chaises, Lounges<br>
+        <strong>Price: </strong>
+            1450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Relax into the generously proportioned felted wool Chi Chaise. This Peter Cardew design adds a sense of understated luxury to any room with its stainless steel legs and leather arm cover and bolster. Size: 84.5''l x 32.25''w x 23.25''h, 31'' oah, 14'' seat.<br><br>Min. Qty: 1  <br>Carton Qty: 1  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>90141</s:tag>
+    <s:tag>90157</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068554</id>
+      <title>Charcoal / Left</title>
+      <s:price currency="USD">1450.00</s:price>
+      <s:sku>90142</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068554</id>
+      <title>Charcoal / Right</title>
+      <s:price currency="USD">1450.00</s:price>
+      <s:sku>90157</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/95068562</id>
+    <published>2012-06-25T10:14:00-05:00</published>
+    <updated>2012-06-25T10:14:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/chi_leather_chaises"/>
+    <title>CHI CHAISES, LEATHER</title>
+    <s:type>Sofas, Chaises, Lounges</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/chi-chaise-L.jpg?v=1624037078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>Sofas, Chaises, Lounges<br>
+        <strong>Price: </strong>
+            2000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Relax into the generously proportioned top grain aniline leather Chi chaise. This Peter Cardew design adds a sense of understated luxury to any room with its stainless steel legs and geometric bolster cushion. Size: 84.5''l x 32.25''w x 23.25''h, 31'' oah, 14''h seat.<br><br>Min. Qty: 1  <br>Carton Qty: 1  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>90151</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068562</id>
+      <title>Black / Right</title>
+      <s:price currency="USD">2000.00</s:price>
+      <s:sku>90151</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/95068560</id>
+    <published>2012-06-25T10:14:00-05:00</published>
+    <updated>2012-06-25T10:14:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/chi_felt_ottomans"/>
+    <title>CHI OTTOMANS, FELT</title>
+    <s:type>Stools, Chairs, Benches</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/Chi-ottoman-felt.jpg?v=1443477186"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>Stools, Chairs, Benches<br>
+        <strong>Price: </strong>
+            375.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed with geometric simplicity in mind, this Peter Cardew designed ottoman is a great addition to the popular Chi line. Built with a stainless steel frame and upholstered in felted wool fabric. Size: 39.5''l x 33''w x 14''h.<br><br>Min. Qty: 1  <br>Carton Qty: 1  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>90171</s:tag>
+    <s:tag>90172</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068560</id>
+      <title>Grey</title>
+      <s:price currency="USD">375.00</s:price>
+      <s:sku>90171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068560</id>
+      <title>Charcoal</title>
+      <s:price currency="USD">375.00</s:price>
+      <s:sku>90172</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/95068558</id>
+    <published>2012-06-25T10:14:00-05:00</published>
+    <updated>2012-06-25T10:14:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/chi_felt_lounges"/>
+    <title>CHI LOUNGES, FELT</title>
+    <s:type>Sofas, Chaises, Lounges</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/Chi-lounge-felt.jpg?v=1443477026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>Sofas, Chaises, Lounges<br>
+        <strong>Price: </strong>
+            1450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Designed with geometric simplicity in mind, this Peter Cardew designed Lounge comes with a moveable centre cushion. Built with a stainless steel frame and upholstered in a grey felted wool. Size: 84.5''l x 32.25''w x 23.25''h, 31'' oah, 14'' seat.<br><br>Min. Qty: 1  <br>Carton Qty: 1  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>90127</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068558</id>
+      <title>Charcoal</title>
+      <s:price currency="USD">1450.00</s:price>
+      <s:sku>90127</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/95068550</id>
+    <published>2012-06-25T10:14:00-05:00</published>
+    <updated>2012-06-25T10:14:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/chi_felt_armchair"/>
+    <title>CHI ARMCHAIRS, FELT</title>
+    <s:type>Stools, Chairs, Benches</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/Chi-armchair-felt.jpg?v=1443475881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>Stools, Chairs, Benches<br>
+        <strong>Price: </strong>
+            875.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Relax into the generously proportioned felted wool Chi Armchair. This Peter Cardew design adds a sense of understated luxury to any room with its stainless steel legs and leather arm cover and bolster. Size: 39.5''l x 32.25''w x 23.25''h, 31''oah, 14''h seat.<br><br>Min. Qty: 1  <br>Carton Qty: 1  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>90110</s:tag>
+    <s:tag>90111</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068550</id>
+      <title>Grey</title>
+      <s:price currency="USD">875.00</s:price>
+      <s:sku>90110</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/95068550</id>
+      <title>Charcoal</title>
+      <s:price currency="USD">875.00</s:price>
+      <s:sku>90111</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

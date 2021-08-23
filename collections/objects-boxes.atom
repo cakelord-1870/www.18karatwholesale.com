@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.18karatwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.18karatwholesale.com/collections/objects-boxes.atom"/>
+  <title>18KARAT WHOLESALE</title>
+  <updated>2016-01-06T10:57:00-06:00</updated>
+  <author>
+    <name>18KARAT WHOLESALE</name>
+  </author>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/3941093895</id>
+    <published>2016-01-06T10:57:00-06:00</published>
+    <updated>2016-01-06T10:57:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/nimbus_wall_decor"/>
+    <title>NIMBUS WALL DECOR</title>
+    <s:type>Home Decor Ceramic</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/ETA-nimbus-wall.jpg?v=1452103105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>Home Decor Ceramic<br>
+        <strong>Price: </strong>
+            6.95 - 43.95
+            <a href="https://www.18karatwholesale.com/products/nimbus_wall_decor">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Nimbus and Cirrus collection of wall d‚cor and vase resemble textured clouds. These ceramic pieces are hand-made, with each detail being added one piece at a time. The wall decor features keyhole hangers built into the design. Both collections are available in a range of sizes. 3 Sizes 4.25"sq x 2.25"h, 8"sq x 2.5"h, 11.25"sq x3"h<br><br>Min. Qty: 4  <br>Carton Qty: 4  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>70506</s:tag>
+    <s:tag>70508</s:tag>
+    <s:tag>70510</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/3941093895</id>
+      <title>4.25&quot;</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>70506</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/3941093895</id>
+      <title>8&quot;</title>
+      <s:price currency="USD">22.95</s:price>
+      <s:sku>70508</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/3941093895</id>
+      <title>11.5&quot;</title>
+      <s:price currency="USD">43.95</s:price>
+      <s:sku>70510</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/3941088583</id>
+    <published>2016-01-06T10:57:00-06:00</published>
+    <updated>2016-01-06T10:57:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/cirrus_wall_decor"/>
+    <title>CIRRUS WALL DECOR</title>
+    <s:type>Home Decor Ceramic</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/eta-cirrus.jpg?v=1624032666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>Home Decor Ceramic<br>
+        <strong>Price: </strong>
+            6.95 - 43.95
+            <a href="https://www.18karatwholesale.com/products/cirrus_wall_decor">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Nimbus and Cirrus collection of wall d‚cor and vase resemble textured clouds. These ceramic pieces are hand-made, with each detail being added one piece at a time. The wall decor features keyhole hangers built into the design. Both collections are available in a range of sizes. 3 Sizes 4.25"sq x 2.25"h, 8"sq x 2.5"h, 11.25"sq x3"h<br><br>Min. Qty: 4  <br>Carton Qty: 4  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>70507</s:tag>
+    <s:tag>70511</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/3941088583</id>
+      <title>4.25&quot;</title>
+      <s:price currency="USD">6.95</s:price>
+      <s:sku>70507</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/3941088583</id>
+      <title>11.5&quot;</title>
+      <s:price currency="USD">43.95</s:price>
+      <s:sku>70511</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.18karatwholesale.com/products/329531333</id>
+    <published>2014-07-08T11:52:00-05:00</published>
+    <updated>2014-07-08T11:52:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.18karatwholesale.com/products/lichen_boxes"/>
+    <title>LICHEN BOXES</title>
+    <s:type>Home Decor Ceramic</s:type>
+    <s:vendor>18Karat</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0134/1932/products/Lichen-boxes-ivory-C07.jpg?v=1443483932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>18Karat<br>
+        <strong>Type: </strong>Home Decor Ceramic<br>
+        <strong>Price: </strong>
+            9.95 - 14.50
+            <a href="https://www.18karatwholesale.com/products/lichen_boxes">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Lichen ceramic collection features an unusual glaze texture reminiscent of lichen on a tree. The collection includes dainty vases and a series of lidded boxes perfect for use as a bathroom set. Three sizes 2"h x 5.5"dia, 5"h x 4"dia, 6.5"h x 5.25"dia.<br><br>Min. Qty: 4  <br>Carton Qty: 8  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>70409</s:tag>
+    <s:tag>70410</s:tag>
+    <s:tag>70411</s:tag>
+    <s:tag>70412</s:tag>
+    <s:tag>70414</s:tag>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/329531333</id>
+      <title>2&apos;&apos; / Ivory</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>70409</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/329531333</id>
+      <title>2&apos;&apos; / Charcoal</title>
+      <s:price currency="USD">9.95</s:price>
+      <s:sku>70410</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/329531333</id>
+      <title>5&apos;&apos; / Ivory</title>
+      <s:price currency="USD">10.95</s:price>
+      <s:sku>70411</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/329531333</id>
+      <title>5&apos;&apos; / Charcoal</title>
+      <s:price currency="USD">10.95</s:price>
+      <s:sku>70412</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.18karatwholesale.com/products/329531333</id>
+      <title>6.5&apos;&apos; / Charcoal</title>
+      <s:price currency="USD">14.50</s:price>
+      <s:sku>70414</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
